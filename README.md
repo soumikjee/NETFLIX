@@ -1,2 +1,2 @@
 # NETFLIX
-![Alt text](demo.png)
+![Alt text](Demo.png)
